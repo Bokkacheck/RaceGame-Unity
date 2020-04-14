@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 581dbfc087204e14b97b2014ba36c094
+  - enabled: 0
+    path: Assets/Scenes/race_track_lake.unity
+    guid: 2e1336748f3797f4798cf9e588e2620f
+  - enabled: 0
+    path: Assets/Scenes/WorkScene.unity
+    guid: a22a22cde369c4440bd63f85b48d2b55
+  - enabled: 1
+    path: Assets/Scenes/game.unity
+    guid: 638b8c05ee9dd1d418c3e8c33944b8e4
+  m_configObjects: {}
